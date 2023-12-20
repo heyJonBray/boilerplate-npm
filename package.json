@@ -10,7 +10,8 @@
     "node",
     "express",
     "practice",
-    "boilerplate"
+    "boilerplate",
+    "freecodecamp"
   ],
   "license": "MIT",
   "dependencies": {
