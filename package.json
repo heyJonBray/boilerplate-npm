@@ -1,14 +1,22 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": {
+    "name": "Jon Bray",
+    "email": "heyjonbray@protonmail.com",
+    "url": "http://www.freecodecamp.com/james-clear"
+  },
+  "version": "0.0.1",
+  "description": "A boilerplate for Node.js and Express.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
